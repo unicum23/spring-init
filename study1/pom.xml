@@ -1,0 +1,14 @@
+<project>
+    <parent>
+        <groupId>com.shuvalov.super-study</groupId>
+        <artifactId>super-study</artifactId>
+        <version>1.0.0-SNAPSHOT</version>
+        <relativePath>../pom.xml</relativePath>
+    </parent>
+
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.shuvalov.study1</groupId>
+    <artifactId>study1</artifactId>
+    <packaging>jar</packaging>
+    <name>Study project 1</name>
+</project>
